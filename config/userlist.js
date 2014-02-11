@@ -1,5 +1,6 @@
 module.exports = {
-    users: [ // ADD YOUR USERNAME AT THE TOP
+    users: [ // ADD YOUR CASE SENSITIVE USERNAME AT THE TOP
+        'Breefield',
         'mattclaw',
         'crankeye',
         'cgroner',
